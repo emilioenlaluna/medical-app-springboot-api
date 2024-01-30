@@ -1,0 +1,1 @@
+ gradle sonar "-Dsonar.projectKey=medical" "-Dsonar.projectName='medical'" "-Dsonar.host.url=http://localhost:9000" "-Dsonar.token=sqp_382757d77d63d6f7f6f734df6783e6a9d3e51342"
